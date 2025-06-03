@@ -1,7 +1,7 @@
 {
   "name": "anchor-idl-filter",
   "version": "1.0.0",
-  "description": "CLI tool to filter Anchor IDL files by instruction, account, type, and more.",
+  "description": "CLI to filter, transform Anchor IDL (v0.30.0 or newer) files by instructions, accounts, types, events, and errors. Perfect for creating lightweight IDL files for specific use cases.",
   "bin": {
     "idl-filter": "./dist/index.js"
   },
@@ -32,6 +32,9 @@
   "author": "wobondar",
   "license": "MIT",
   "packageManager": "pnpm@10.11.1",
+  "engines": {
+    "node": ">=20"
+  },
   "files": [
     "dist",
     "src"
@@ -40,7 +43,6 @@
     "access": "public"
   },
   "dependencies": {
-    "camelcase": "^8.0.0",
     "commander": "^14.0.0"
   },
   "devDependencies": {
@@ -49,6 +51,7 @@
     "@types/eslint": "^9.6.1",
     "@types/jest": "^29.5.14",
     "@types/node": "^22.15.29",
+    "camelcase": "^8.0.0",
     "eslint": "^9.28.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.4.1",
