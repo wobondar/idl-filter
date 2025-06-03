@@ -1,0 +1,24 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": false,
+		"strict": true,
+		"moduleResolution": "bundler",
+		"target": "ES2020",
+		"module": "ESNext",
+		"noEmit": true,
+		"outDir": "./dist",
+  },
+  "include": [
+		"src/**/*.js",
+		"src/**/*.ts",
+		"tests/**/*.js",
+		"tests/**/*.ts"
+	],
+  "exclude": ["node_modules/**"]
+}
