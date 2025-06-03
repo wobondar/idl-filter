@@ -1,6 +1,6 @@
 {
   "name": "anchor-idl-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to filter, transform Anchor IDL (v0.30.0 or newer) files by instructions, accounts, types, events, and errors. Perfect for creating lightweight IDL files for specific use cases.",
   "bin": {
     "idl-filter": "./dist/index.js"
@@ -75,7 +75,7 @@
       "@semantic-release/release-notes-generator",
       "@semantic-release/npm",
       ["@semantic-release/git", {
-        "assets": ["dist/**/*.js", "CHANGELOG.md", "package.json"],
+        "assets": ["CHANGELOG.md", "package.json"],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }],
       "@semantic-release/github"
