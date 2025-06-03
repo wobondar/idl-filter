@@ -50,6 +50,7 @@
   "devDependencies": {
     "@commander-js/extra-typings": "^14.0.0",
     "@eslint/js": "^9.28.0",
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@types/eslint": "^9.6.1",
     "@types/jest": "^29.5.14",
@@ -73,8 +74,19 @@
       "release"
     ],
     "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/commit-analyzer",
+        {
+          "preset": "conventionalcommits"
+        }
+      ],
+      [
+        "@semantic-release/release-notes-generator",
+        {
+          "preset": "conventionalcommits"
+        }
+      ],
+      "@semantic-release/changelog",
       "@semantic-release/npm",
       [
         "@semantic-release/git",

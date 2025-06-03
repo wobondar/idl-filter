@@ -6,7 +6,7 @@ import { pathToFileURL } from "url";
 import { IDLFilterConfig } from "./types";
 import { loadIdlFile, transformIdlCamelCase } from "./idl";
 
-import { version, description } from "../package.json";
+const { version, description } = JSON.parse(fs.readFileSync(path.resolve(__dirname, "../package.json"), "utf8"));
 
 const program = new Command()
   .name("idl-filter")
