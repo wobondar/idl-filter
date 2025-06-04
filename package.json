@@ -1,6 +1,6 @@
 {
   "name": "anchor-idl-filter",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "CLI to filter, transform Anchor IDL (v0.30.0 or newer) files by instructions, accounts, types, events, and errors. Perfect for creating lightweight IDL files for specific use cases.",
   "bin": {
     "idl-filter": "./dist/index.js"

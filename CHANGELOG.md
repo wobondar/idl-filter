@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/wobondar/idl-filter/compare/v1.2.0...v1.2.1) (2025-06-04)
+
+### Bug Fixes
+
+* provide PR number to auto-merge ([e314420](https://github.com/wobondar/idl-filter/commit/e31442051a761bfd61289d1986b44d8d564fda13))
+
 ## [1.2.0](https://github.com/wobondar/idl-filter/compare/v1.1.0...v1.2.0) (2025-06-03)
 
 ### Features
