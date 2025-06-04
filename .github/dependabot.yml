@@ -1,0 +1,52 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "chore"
+      include: scope
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "chore"
+      include: scope
+    open-pull-requests-limit: 10
+    ignore:
+      - dependency-name: "@types/*"
+        update-types: ["version-update:semver-patch"]
+    groups:
+      lint:
+        patterns:
+          - "eslint"
+          - "eslint-*"
+          - "@eslint/*"
+          - "prettier"
+          - "eslint-plugin-*"
+          - "eslint-config-*"
+          - "typescript-eslint"
+      release:
+        patterns:
+          - "semantic-release"
+          - "@semantic-release/*"
+          - "conventional-changelog-*"
+      testing:
+        patterns:
+          - "jest"
+          - "ts-jest"
+          - "@types/jest"
+      types:
+        patterns:
+          - "@types/*"
+      typescript:
+        patterns:
+          - "typescript"
+          - "tsup"
+          - "tsx"
+      commander:
+        patterns:
+          - "commander"
+          - "@commander-js/*"
