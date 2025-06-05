@@ -1,3 +1,9 @@
+## [1.2.2](https://github.com/wobondar/idl-filter/compare/v1.2.1...v1.2.2) (2025-06-05)
+
+### 🤖 Continuous Integration
+
+* **release:** move semantic config to release.config.mjs ([1f2623b](https://github.com/wobondar/idl-filter/commit/1f2623b05ba8e8c4c1943d384325ee828e19f7b1))
+
 ## [1.2.1](https://github.com/wobondar/idl-filter/compare/v1.2.0...v1.2.1) (2025-06-04)
 
 ### Bug Fixes
