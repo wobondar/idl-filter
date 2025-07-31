@@ -1,3 +1,14 @@
+## [1.2.4](https://github.com/wobondar/idl-filter/compare/v1.2.3...v1.2.4) (2025-07-31)
+
+### 🧹 Dependencies
+
+* **deps-dev:** bump @types/node in the types group ([bdcfab5](https://github.com/wobondar/idl-filter/commit/bdcfab515b83ca777f55d2ba65cfb3747c0247ae))
+* **deps-dev:** bump jest from 30.0.4 to 30.0.5 in the testing group ([c603ee5](https://github.com/wobondar/idl-filter/commit/c603ee569a03aa016fc2addd58a42d6f5db13721))
+* **deps-dev:** bump the lint group with 2 updates ([bfc13cb](https://github.com/wobondar/idl-filter/commit/bfc13cb244b10318f1a4a4a9d65240021ccb2a60))
+* **deps-dev:** bump the lint group with 2 updates ([afd80ba](https://github.com/wobondar/idl-filter/commit/afd80ba8c60d0fb206f21fa233ebeceeb534069a))
+* **deps-dev:** bump typescript-eslint in the lint group ([1fb5915](https://github.com/wobondar/idl-filter/commit/1fb5915decf0b79c5d7e4e5d2e73b86e3b7a51eb))
+* **deps-dev:** bump typescript-eslint in the lint group ([6eed143](https://github.com/wobondar/idl-filter/commit/6eed1439f61a29de393ab1c10dff45839b90e400))
+
 ## [1.2.3](https://github.com/wobondar/idl-filter/compare/v1.2.2...v1.2.3) (2025-07-14)
 
 ### 🧹 Dependencies
