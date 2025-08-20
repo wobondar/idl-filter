@@ -1,3 +1,19 @@
+## [1.2.5](https://github.com/wobondar/idl-filter/compare/v1.2.4...v1.2.5) (2025-08-20)
+
+### 🧹 Dependencies
+
+* **deps-dev:** bump @types/node in the types group ([970e109](https://github.com/wobondar/idl-filter/commit/970e109cb5c3a0eecd8f15740b2f9e04c6f4d34d))
+* **deps-dev:** bump @types/node in the types group ([4a62e3c](https://github.com/wobondar/idl-filter/commit/4a62e3c90c7c3b4087cc01b7d8bfa0caeeed2dac))
+* **deps-dev:** bump eslint-plugin-prettier in the lint group ([a044d89](https://github.com/wobondar/idl-filter/commit/a044d899ad569e03fbb90e78d53da65b3e0b4fa5))
+* **deps-dev:** bump the lint group with 2 updates ([2603c9e](https://github.com/wobondar/idl-filter/commit/2603c9ed0815eee050538c0f66cbf8632ad0df01))
+* **deps-dev:** bump ts-jest from 29.4.0 to 29.4.1 in the testing group ([a308730](https://github.com/wobondar/idl-filter/commit/a3087308639f3dbc9faf1c859132a76a91f14a77))
+* **deps-dev:** bump tsx from 4.20.3 to 4.20.4 in the typescript group ([8fdebea](https://github.com/wobondar/idl-filter/commit/8fdebea7ceb734f6e2328406d7b9b7f0ea9c1f01))
+* **deps-dev:** bump typescript in the typescript group ([757c2dd](https://github.com/wobondar/idl-filter/commit/757c2dd95af7c707da57ceebc9695de2673c9976))
+* **deps-dev:** bump typescript-eslint in the lint group ([9004dde](https://github.com/wobondar/idl-filter/commit/9004dde572a0bf887d39555b8fa62836cd9b7eea))
+* **deps-dev:** bump typescript-eslint in the lint group ([bc2ec04](https://github.com/wobondar/idl-filter/commit/bc2ec043daa9f7d5e3d07b21e764ea3d25797c61))
+* **deps-dev:** bump typescript-eslint in the lint group ([33fe5b8](https://github.com/wobondar/idl-filter/commit/33fe5b8bebb31cc75d7b44d6a77b056616320132))
+* **deps:** bump actions/checkout from 4 to 5 ([fcbbb88](https://github.com/wobondar/idl-filter/commit/fcbbb888e1f8a30a9a1caceac4ffff35c71420fc))
+
 ## [1.2.4](https://github.com/wobondar/idl-filter/compare/v1.2.3...v1.2.4) (2025-07-31)
 
 ### 🧹 Dependencies
