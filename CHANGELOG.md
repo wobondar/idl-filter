@@ -1,3 +1,24 @@
+## [1.2.6](https://github.com/wobondar/idl-filter/compare/v1.2.5...v1.2.6) (2025-09-18)
+
+### 🧹 Dependencies
+
+* **deps-dev:** bump @types/node in the types group ([f00aec0](https://github.com/wobondar/idl-filter/commit/f00aec04884ed6214c5ec17f144ce5fa5d854969))
+* **deps-dev:** bump globals from 16.3.0 to 16.4.0 ([3c8822c](https://github.com/wobondar/idl-filter/commit/3c8822c345b24cd19f5d4cbc35a115424fe1622d))
+* **deps-dev:** bump jest from 30.0.5 to 30.1.1 in the testing group ([3e0ac8f](https://github.com/wobondar/idl-filter/commit/3e0ac8fb6f20189ad5d8c17e852eed9a8ea0f4bc))
+* **deps-dev:** bump jest from 30.1.1 to 30.1.2 in the testing group ([64b01cc](https://github.com/wobondar/idl-filter/commit/64b01ccebcb314ab2f63f6872b828270b13fbb7f))
+* **deps-dev:** bump jest from 30.1.2 to 30.1.3 in the testing group ([2f56292](https://github.com/wobondar/idl-filter/commit/2f56292331b96e1209999e8ffcf751ee326a481b))
+* **deps-dev:** bump semantic-release in the release group ([fab23bf](https://github.com/wobondar/idl-filter/commit/fab23bf1ad7a7bc9467833a5570d13fffadf8022))
+* **deps-dev:** bump the lint group with 2 updates ([ce30473](https://github.com/wobondar/idl-filter/commit/ce30473c9ab817fe20fa6b2a8b6224e80183c005))
+* **deps-dev:** bump the lint group with 2 updates ([0790020](https://github.com/wobondar/idl-filter/commit/079002085105ae382fbd6eb0118941276c497cb7))
+* **deps-dev:** bump ts-jest from 29.4.1 to 29.4.2 in the testing group ([215bd84](https://github.com/wobondar/idl-filter/commit/215bd8480cf8e9b74dc5f2be2d6fa1fc4b8328bc))
+* **deps-dev:** bump tsx from 4.20.4 to 4.20.5 in the typescript group ([1753d14](https://github.com/wobondar/idl-filter/commit/1753d14ecb8f78f6a27fb2184bf00b0ab8f5a455))
+* **deps-dev:** bump typescript-eslint in the lint group ([9328267](https://github.com/wobondar/idl-filter/commit/93282674a4968519901ac7784c909015ddfeb3cd))
+* **deps-dev:** bump typescript-eslint in the lint group ([ba24289](https://github.com/wobondar/idl-filter/commit/ba24289d1c87760f15fbe76ba9f9997efada6b1b))
+* **deps-dev:** bump typescript-eslint in the lint group ([fa65bfa](https://github.com/wobondar/idl-filter/commit/fa65bfa2c7a64c788d561c04a83ac7fe2091e248))
+* **deps-dev:** bump typescript-eslint in the lint group ([5d96cc1](https://github.com/wobondar/idl-filter/commit/5d96cc1863dfae71bc16f9a632cddc8cc02f2b19))
+* **deps:** bump actions/setup-node from 4 to 5 ([02ebfc9](https://github.com/wobondar/idl-filter/commit/02ebfc9838917063972d9a284432a4a5374aa9b5))
+* **deps:** bump commander from 14.0.0 to 14.0.1 in the commander group ([fae0cf8](https://github.com/wobondar/idl-filter/commit/fae0cf89ba3a5cb7228cce0de9ac46371ce5bf1f))
+
 ## [1.2.5](https://github.com/wobondar/idl-filter/compare/v1.2.4...v1.2.5) (2025-08-20)
 
 ### 🧹 Dependencies
