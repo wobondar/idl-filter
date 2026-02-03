@@ -54,7 +54,7 @@
     "@semantic-release/git": "^10.0.1",
     "@types/eslint": "^9.6.1",
     "@types/jest": "^30.0.0",
-    "@types/node": "^24.0.13",
+    "@types/node": "^25.2.0",
     "camelcase": "^8.0.0",
     "conventional-changelog-conventionalcommits": "^9.0.0",
     "eslint": "^9.28.0",
