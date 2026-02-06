@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "@commander-js/extra-typings": "^14.0.0",
-    "@eslint/js": "^9.28.0",
+    "@eslint/js": "^10.0.1",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@types/eslint": "^9.6.1",
@@ -57,7 +57,7 @@
     "@types/node": "^24.0.13",
     "camelcase": "^8.0.0",
     "conventional-changelog-conventionalcommits": "^9.0.0",
-    "eslint": "^9.28.0",
+    "eslint": "^10.0.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.4.1",
     "globals": "^16.2.0",
