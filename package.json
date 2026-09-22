@@ -45,10 +45,10 @@
     "access": "public"
   },
   "dependencies": {
-    "commander": "^14.0.0"
+    "commander": "^15.0.0"
   },
   "devDependencies": {
-    "@commander-js/extra-typings": "^14.0.0",
+    "@commander-js/extra-typings": "^15.0.0",
     "@eslint/js": "^9.28.0",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
